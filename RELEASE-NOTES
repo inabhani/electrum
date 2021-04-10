@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Release 4.1.1 - (April 2, 2021)
  * fix Qt crash with the swap dialog
  * fix Kivy bug with scrollbar (#7155)
@@ -775,6 +776,8 @@ issue #3374. Users should upgrade to 3.0.5.
     command line.
 
 
+=======
+>>>>>>> Stashed changes
 # Release 2.9.4 (security update)
   * Backport security fixes from 3.0.5 after vulnerability was
     discovered in JSONRPC interface.
